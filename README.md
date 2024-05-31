@@ -140,9 +140,9 @@ Voici ci-dessous les données (albums et leurs chansons) que vous allez devoir u
 | Paparazzi   | 3:28  |
 |||
 
-#### Album 'PSY 6 - PSY'
+#### Album 'Psy 6 - PSY'
 
-| PSY 6 - PSY       |  |
+| Psy 6 - PSY       |  |
 |---------------|-------|
 | Gangnam Style | 3:39 |
 |||
@@ -158,13 +158,13 @@ Voici ci-dessous les données (albums et leurs chansons) que vous allez devoir u
 
 Dans le `main()` de la classe `Application` déjà fournie, effectuez les opérations suivantes :
 
-- Créez les albums listés ci-dessous avec leurs chansons.
+- Créez les albums listés ci-dessous avec leurs chansons. **N'oubliez pas d'utiliser votre service de calcul durée pour donner la durée correcte de vos chansons!**
 - Créez un tableau contenant ces 3 albums, appelé `bibliotheque`.
 - Ensuite, créez un tableau pouvant accueillir 5 playlists, appelé `playlists`.
 - Dans la première position du tableau, créez une playlist nommée "Concentration - Revisions" et appartenant à "fan2Squ33zie".
 - Dans la dernière position du tableau, créez une playlist nommée "Concentration - Revisions" et vous appartenant.
 - Ajoutez des chansons de votre choix à ces playlists (au minimum 1 par playlist)
-- Pour finir, affichez le contenu des tableaux `bibliotheque`et `playlists`.
+- Pour finir, affichez le contenu des tableaux `bibliotheque` et `playlists`.
 
 ## Résultat sur la console
 
